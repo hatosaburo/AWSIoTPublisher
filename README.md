@@ -1,1 +1,2 @@
 # AWSIoTPublisher
+指定したディレクトリに出力されたJSONファイルを、AWSIoTにアップロードする
